@@ -5,3 +5,6 @@ pandas
 pytest
 tox
 wheel
+flake8
+gunicorn
+flask
